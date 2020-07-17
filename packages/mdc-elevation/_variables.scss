@@ -128,4 +128,4 @@ $overlay-property: opacity !default;
 $transition-duration: 280ms !default;
 
 // The default easing value for elevation transitions.
-$transition-timing-function: variables.$standard-curve-timing-function !default;
+$transition-timing-function: variables.$mdc-animation-standard-curve-timing-function !default;
